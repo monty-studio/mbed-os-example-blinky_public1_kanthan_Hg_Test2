@@ -4,3 +4,7 @@
 BUILD
 ?mbed
 mbed-os
+compile_commands?json
+?clangd
+?cache
+USBHost_LIBRARY
