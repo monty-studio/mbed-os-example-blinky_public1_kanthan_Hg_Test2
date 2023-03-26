@@ -7,7 +7,7 @@
 #include "platform/mbed_thread.h"
 #include "stats_report.h"
 
-DigitalOut led1(LED3);
+DigitalOut led1(LED_GREEN);
 
 #define SLEEP_TIME                  4000 // (msec)
 #define PRINT_AFTER_N_LOOPS         20
