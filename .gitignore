@@ -8,3 +8,11 @@ compile_commands?json
 ?clangd
 ?cache
 USBHost_LIBRARY
+libusb
+libusb1
+libusb2
+libusb3%20Git%20Library
+libusb4
+libusb%20space
+libusb5
+libusb6
